@@ -8,7 +8,7 @@ from io import StringIO  # Import StringIO for string I/O operations
 import requests  # Import requests for making HTTP requests
 
 # Load the pre-trained maternal health risk prediction model
-maternal_model = pickle.load(open("model/finalized_maternal_model.sav", 'rb'))
+maternal_model = pickle.load(open("model/finalmodel.sav", 'rb'))
 
 # Create a sidebar for navigation
 with st.sidebar:
