@@ -2,8 +2,8 @@
 
 # a breif overview of what the project does 
 
-# classification models used = Logistic Regression, K-Nearest Neighbors, Random Forest, and Gradient Boosting Classifier
+## classification models used = decisiontree ,random forest , multinomial NB , logistic regression (tried for KNN too but there was some error we could not solve)
 
-# evaluation techniques used = cross-validation, grid search for hyperparameter tuning,  metrics such as accuracy, mean squared error, root mean squared error, precision, recall, and F1 score.
+
 
 # frontend method = stremalit 
